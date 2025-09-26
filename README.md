@@ -29,6 +29,10 @@ Fall-Detection-Challenge---Prosigliere/
 - `README.md` — this file  
 - `requirements.txt` — Python dependencies
 
+## Architecture Diagram
+
+![Architecture Diagram](diagram.png)
+
 ## 🚀 How to Run
 
 1. **Clone this repository:**
