@@ -81,8 +81,7 @@ Fall-Detection-Challenge---Prosigliere/
      ```bash
      export GEMINI_API_KEY="your_key_here"
      ```
-   - ⚠️ Hardcoding API keys directly in code is **not recommended**. Use environment variables or secure vaults instead.
-
+     
 ## 📊 Outputs & Results
 
 - Training of both **general** and **subject-specific** models  
