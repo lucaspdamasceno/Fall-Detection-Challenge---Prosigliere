@@ -974,7 +974,7 @@ def main():
 
     # Configuration
     DATA_PATH = "AI_ML_Challenge-Data/AI_ML_Challenge"  # Update this path
-    GEMINI_API_KEY = "AIzaSyDag2E2IFujA_hFgb9JAmOlSl5NRtrFu_A" # API key provided only for this challenge. It may not work properly. Note: hardcoding API keys directly in code is not a good practice.
+    GEMINI_API_KEY = "AIzaSyD8jQqK1JIYdR9OOzS_X8_NYpkwyL_-0og" # API key provided only for this challenge. It may not work properly. Note: hardcoding API keys directly in code is not a good practice.
 
     # Initialize pipeline
     pipeline = FallDetectionPipeline(DATA_PATH, GEMINI_API_KEY)
