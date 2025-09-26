@@ -52,8 +52,13 @@ Fall-Detection-Challenge---Prosigliere/
    ```bash
    pip install -r requirements.txt
    ```
+   
+4. **Place the dataset ZIP file in the project root:**
+   - Required file: **`AI_ML_Challenge-20250925T215710Z-1-001.zip`**
+   - This file is already provided in the repository.  
+   - ⚠️ Do **not** unzip manually — the script will automatically extract the contents to `AI_ML_Challenge-Data/` when executed.
 
-4. **Prepare the dataset:**
+5. **Prepare the dataset:**
    - Place the folder `AI_ML_Challenge-Data` in the project root (alongside `Fall_Detection_Challenge_code.py`).
    - Ensure the folder structure adheres to:
      ```
@@ -66,12 +71,12 @@ Fall-Detection-Challenge---Prosigliere/
        └── …
      ```
 
-5. **Run the main script:**
+6. **Run the main script:**
    ```bash
    python Fall_Detection_Challenge_code.py
    ```
 
-6. **(Optional) Enable Gemini integration:**
+7. **(Optional) Enable Gemini integration:**
    - Provide your Google Gemini API key in the script or via environment variable:
      ```bash
      export GEMINI_API_KEY="your_key_here"
