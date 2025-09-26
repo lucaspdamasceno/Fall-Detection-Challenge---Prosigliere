@@ -54,7 +54,7 @@ Fall-Detection-Challenge---Prosigliere/
    ```
    
 4. **Place the dataset ZIP file in the project root:**
-   - Required file: **`AI_ML_Challenge-20250925T215710Z-1-001.zip`**
+   - Required file: **`AI_ML_Challenge-001.zip`**
    - This file is the provided in the original repository (not here).  
    - ⚠️ Do **not** unzip manually — the script will automatically extract the contents to `AI_ML_Challenge-Data/` when executed.
 
