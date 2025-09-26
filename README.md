@@ -1,1 +1,1 @@
-# Fall-Detection-Challenge---Prosigliere
+# Fall Detection Challenge - Prosigliere
