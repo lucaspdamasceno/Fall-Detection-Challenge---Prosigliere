@@ -13,7 +13,7 @@ import zipfile
 import os
 
 # Caminho para o arquivo ZIP
-zip_path = "/content/AI_ML_Challenge-20250925T215710Z-1-001.zip"
+zip_path = "AI_ML_Challenge-20250925T215710Z-1-001.zip"
 
 # Pasta de destino onde os arquivos serão extraídos
 extract_path = "AI_ML_Challenge-Data"
