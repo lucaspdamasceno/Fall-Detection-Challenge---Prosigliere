@@ -1,0 +1,10 @@
+tensorflow>=2.15.0
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+imbalanced-learn
+openpyxl
+google-generativeai
